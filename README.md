@@ -27,8 +27,6 @@ The Iris dataset is a classic dataset in machine learning and statistics. It con
 
 
 
-   This will execute the KNN classifier on the Iris dataset, calculate the accuracy scores using different distance measures, and print the results.
-
 ## Results
 
 The accuracy scores of the KNN classifier using different distance measures are as follows:
