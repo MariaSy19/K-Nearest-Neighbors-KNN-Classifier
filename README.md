@@ -25,25 +25,7 @@ The Iris dataset is a classic dataset in machine learning and statistics. It con
 - matplotlib
 - seaborn
 
-## Usage
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/knn-classifier.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd knn-classifier
-   ```
-
-3. Run the Python script:
-
-   ```bash
-   python knn_classifier.py
-   ```
 
    This will execute the KNN classifier on the Iris dataset, calculate the accuracy scores using different distance measures, and print the results.
 
